@@ -1,5 +1,6 @@
 .cleaners {
   background-color: white;
+  width: 706px;
 
   &__container {
     padding-top: 150px;
@@ -47,11 +48,16 @@
 }
 
 .cleaners__description {
+  padding-top: 45px;
   width: 705.83px;
   color: rgb(90, 90, 90);
   font-family: Prompt;
   font-size: 18px;
   font-weight: 400;
+}
+
+.cleaners__text2 {
+  padding-top: 25px;
 }
 
 .cleaners__subtext {
