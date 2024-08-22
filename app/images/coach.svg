@@ -1,0 +1,17 @@
+<svg width="150.000000" height="150.000000" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_23_5020" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image23_502_0" transform="matrix(0.007813,0,0,0.007813,0,0)"/>
+		</pattern>
+		<image id="image23_502_0" width="128.000000" height="128.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAABXtJREFUeJzt3e+LFVUcx/H33nuNTIIoiVrBgiR2tR9E24JWD/KZUI96kCRsPepJ+Kgo6IEULURh/gM9c8O2YiMrg54ZbBlYT2SpKDUxRNrStRbDSnd7cOaKXs/MnXPnnPmx5/OCAzr3zrnfc+a7M3PnnDsDIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiItI8Q57rGwY2Abd4rjePi8CPwA/ApUCf0QZGgRGgE+gz0lwCfsG073zJn51pC/A5sAAs16CcB2aBPZiELGo4qWs2qbvq9i0Bx4E3gZs9tG9go8BnVN8hWWUBmCjQxgnqk9i28iewC7iuQBsHch/wR4HAyy6fAGsd2rc2WafquPOWj4FVDu0rZCMwH7hBoZIgryZt/G6ZoYTzkg7wc8UNLVLyHA4mahDnoGVXjvYV8mwNGlmkLJB9YjhMvY/5/cpZ4MaM9l2j7fDeDvABFZ95FnQ90AK+SHn9NeCx8sLxbjWwiPnGkkvLofK7gbtcI6qh8QFfa4ptLm92SYBfHQOpqwew7/nayWtNd9LlzS4JsAi85xZLLd2AuYbRazR5rckWgfddVnBJAICngSeBL4H/HNetk5Gcy5piHpgC7gU+LetD1wBPAAcwlyerPgN2Kdst7dleg7hcz/jfAO7H/5iOs42YRKi6U2JIgH+AFzB/gIW5HgLSfI/ZG7zlqT6x+x3YCryNpxFBXwkA5jDwMvAMJkvFrznM19SvfFaaNwHWYb5f3kP/i0d7MVk6XyAuudoBzLD7iT7va2O20TbMNhtYG9iJGRQ5zdXHoLzj7Vuo78lhk84B5sge5Mmar3Aasw134nDVdxNwOGdw/cbb93rogNgTYGtG/7rMVziM2baZXgIuDBBk2nj77cBfJXfYSkqADy1xwuDzFS5gtrHVjoLBpo23v1iDjmxiAvwNrE/p06LzFXb0VngbcMZD0LbDwSrgpxp0aNMS4FVLjOBnvsIZzDa/bL+noNPG2193rOc3zJ5jHeZr5Zznzi0jAaaAh5IyNcD6tpFXn/MV9ncrHffc8D2WwB9xrOP5nvUf9Bxj6AQ4Yqn/iMP6Ry3rg+lbn/0w3sL/GLitvm/If3FoCXi3Z9l3mKuNTTGVc1magynLvW+rFjDmuVLbePtFzG49jxawuWfZrcCGgnGV6eGcy9KcsiwLMV9hLEQCpI23500AgFeAO5J/3wRMUsHc9wIeT8pQUrr/z8vWVyHmK4x1CDMOPoI5cbvSgsP6j2J+/fI15vi/2lNcXcue6+vVxozLd4/lrnsvW18F2U4d3CaG5mW7dOna6S3MyWMIZY2fD3rYsvVViDn/bZ+jgdJASoDIKQEipwSInBIgckqAyJWZAC4XgkKzxVL3+IIoMwHeKfGzshzFfq39IOmDMGVKiy+IMhNgFngO+0hZGf4FpoGnsF9oWU5em07eW7Z+8QXjc3gxa7hVigkyYUUngZFTAkROCRA5JUDkhghzxnkIxztVSF/ruXamVGGhEkAaQoeAyCkBIqcEiJwSIHJKgMgpASKnBIicEiBySoDItYBzVQchlTnXwvwGT+J0vAUcqzoKqcyxFuZhQxKnmSHMr05PUPDOktI4p4A7W5i7d0xWHIyUbxKz7S/bR5gZwir1K/uwWIOZu191cCphyywZzxroALtrEKRKmLKbnHcamalBsCp+i/XbXlo2hHgg1EnMZFHpbzPp9wkelHWbBn/Y8BUOoZ+M5TWN/wSw0mBQ5JQAkVMCRE4JEDklQOSUAJFLS4AQD37UwyTzK63/0xLgowABhKhzpaq8/7u3O/fx4MelpK4QdyVfqUrr/363Td9A8QdKfEs9br/WROp/EREREREREREREREREREREREREREREREREbH4H3EUJhPXRBd7AAAAAElFTkSuQmCC"/>
+	</defs>
+	<mask id="mask23_502" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="150.000000" height="150.000000">
+		<rect id="image 6" width="150.000000" height="150.000000" fill="url(#pattern_23_5020)" fill-opacity="1.000000"/>
+	</mask>
+	<g mask="url(#mask23_502)">
+		<rect id="Rectangle 120" width="150.000000" height="150.000000" fill="#1DAFCF" fill-opacity="1.000000"/>
+	</g>
+</svg>
